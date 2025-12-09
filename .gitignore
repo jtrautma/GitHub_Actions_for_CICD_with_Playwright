@@ -6,7 +6,7 @@ __pycache__
 playwright/.auth
 reports
 screenshot
-test-results
+# test-results
 video
 
 # Pytest
